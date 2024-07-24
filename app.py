@@ -1,5 +1,1 @@
-print("Hello World")
-print("Hello Branch")
-print("Show Difference")
-print("Merge Conflict arises")
-
+print("Main")
